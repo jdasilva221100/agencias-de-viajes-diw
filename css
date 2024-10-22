@@ -1,0 +1,21 @@
+:root{
+    --ancho-contenedores :1200 px;
+}
+
+header > div{
+
+
+     width:  var(--ancho-contenedores);
+
+     margin: 0 auto;
+
+
+    }
+
+header{
+    background-color: rebeccapurple;
+}
+
+h3{
+    color: brown;
+}
